@@ -1,0 +1,14 @@
+.product-container{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: green;
+    max-height: 260px;
+    padding: 1rem;
+}
+
+.lower-container{
+    display: flex;
+    width: 200px;
+    justify-content: space-around;
+    align-items: center;
+}
